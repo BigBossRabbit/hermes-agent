@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.svg" alt="Hermes Agent" width="100%">
-</p>
+[![Banner](banner.svg)](https://github.com/NousResearch/hermes-agent)
 
 # Hermes Agent ☤
 
